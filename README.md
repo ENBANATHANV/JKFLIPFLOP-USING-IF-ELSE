@@ -1,6 +1,6 @@
 ### NAME : V.EMBANATHAN
 ### REG NO : 24001750
-# EXPERIMENT-5 : JK FLIP FLOP
+# EXPERIMENT-5 : IMPLEMENTATAION OF JK FLIP FLOP
 # AIM: 
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
